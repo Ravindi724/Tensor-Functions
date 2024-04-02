@@ -1,0 +1,1 @@
+This repository showcases various functions and operations available in PyTorch for working with tensors. PyTorch provides a wide range of functions that enable efficient calculations and manipulations required for deep learning tasks.
